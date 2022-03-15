@@ -20,6 +20,6 @@ Since we are entering details of the patients electronically in the Hospital Man
 It easily reduces the bookkeeping task and thus reduces the human effort and increases accuracy speed due to this pandemic. It will be easier for the doctors and patients to book the appointment as well as we can read the patient’s review. The website offers many services like Free Checkups, 24/7 Ambulance, Bed Facilities, etc.
 
 **Technologies Used:** 
-Azure Storage Container (Static Website), HTML, CSS, JavaScript
+Azure Storage Container (Static Website), Azure Cosmos DB, HTML, CSS, JavaScript
 
 **Thank You!**
