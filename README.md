@@ -1,5 +1,5 @@
 # Sanjivani
-Hello to everyone, I am **Kanak Negi** and this is my final project for Future Ready Talent Virtual Internship.
+Hello everyone, I am **Kanak Negi** and this is my final project for Future Ready Talent Virtual Internship.
 
 **Industry:** Health
 
