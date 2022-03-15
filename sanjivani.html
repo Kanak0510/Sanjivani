@@ -7,7 +7,7 @@
     <title>Sanjivani</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <link rel="stylesheet" href="css/style.css">
-
+    
 </head>
 <body>
 
@@ -224,12 +224,12 @@
             <img src="image/book-img.svg" alt="">
         </div>
 
-        <form action="">
-            <h3>book appointment</h3>
-            <input type="text" placeholder="Name" class="box">
-            <input type="number" placeholder="Phone Number" class="box">
-            <input type="email" placeholder="Email Address" class="box">
-            <input type="date" class="box">
+        <form method = "post" action = "https://sanjivani-function-app.azurewebsites.net/api/SanjivaniHttpPostTrigger">
+            <h3>book an appointment</h3>
+            <input type="text" placeholder="Name" class="box" name="name">
+            <input type="number" placeholder="Phone Number" class="box" name="number">
+            <input type="email" placeholder="Email Address" class="box" name="email">
+            <input type="date" class="box" name="date">
             <input type="submit" value="book now" class="btn">
         </form>
 
